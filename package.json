@@ -1,5 +1,6 @@
 {
 	"author": "natalia pedroso",
+	"description": "A project of freeCodeCamp tasks",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
